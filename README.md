@@ -6,7 +6,8 @@
 # **<div align="center">REACT NATIVE CHALLENGE</div>**  
   
 
-### <div align="center">Hey Caver, to show us your front end mobile skills we have prepared this challenge - build a react native app for a gaming catalog 👨‍💻 🚀
+### <div align="center">
+Hey there, Caver! To showcase your front-end mobile skills, we have an exciting challenge for you. Your task is to build a React Native app for a gaming catalog. This challenge will allow you to demonstrate your expertise in mobile app development. 👨‍💻 🚀
 
 
 </div>  
@@ -28,8 +29,7 @@
 
 
 
-Like all nerds, the people at SNOWCAVE love games, and for that reason, we decided that our React Native challenge was going to be based on that theme. Using the Rawg API (link below) and taking our design as a reference (it is not mandatory to follow it) we hope that a mobile app that will be created must have some mandatory requirements:  
-
+Just like all passionate individuals, the team at SNOWCAVE has a fondness for games. That's why we have chosen to base our React Native challenge on this exciting theme. By utilizing the Rawg API (link provided below) and referring to our design (although not mandatory to adhere to it), we expect the development of a mobile app that fulfills certain mandatory requirements.
 
 <br/>  
 
@@ -69,6 +69,18 @@ Design reference: [Figma design](https://www.figma.com/file/p303CWT44LFoviiXCyy7
 - use expo to facilitate the review
 - use styled component (oprional)
   
+
+<br/>  
+
+## How to delivery the challenge
+Before starting coding, fork or clone the repository because in the end, you will need to open a pull request to submit your challenge.
+
+<a>[How fork and make a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)</p>
+
+<a>[How clone and make a PR](https://medium.com/learnfactory-nigeria/cloning-branching-and-creating-pull-requests-using-github-4105a55bf0fe)</a>
+
+After opening the pull request, the SNOWCAVE team will conduct a code review of your code and provide comments on it. In parallel, we will schedule a meeting to discuss the code review and have a brief chat about the challenges faced.
+
 
 <br/>  
 
